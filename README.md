@@ -2,11 +2,17 @@
 Create a database (MSSQL) using the details provided below:
 
 Database Name: EmployeeRecords
+
 Table Name: Employee
+
 Columns:
+
 Id
+
 FirstName
+
 MiddleName
+
 LastName	
 
 
